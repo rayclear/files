@@ -6,10 +6,6 @@ int main()
 {
     system("color 2C");
 
-    Wildrift game;
-    game.addChampion();
-    game.displayChampionInfo();
-    game.addSkin();
     
 
 
